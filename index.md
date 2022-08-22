@@ -1,2 +1,23 @@
-# 题目：实用主义的危害
-# 讲员：Yizhen
+# 题目：杜威与实用主义
+# 讲员：梁亦崢姊妹
+<audio controls src="./实用主义的危害.mp3"></audio>
+![image](https://user-images.githubusercontent.com/91267933/185836823-7c4a3f37-85b5-4ede-9663-882a0df9c505.png)
+![image](https://user-images.githubusercontent.com/91267933/185836832-cdef7cbb-32d4-4fcb-b02c-28ca01637277.png)
+![image](https://user-images.githubusercontent.com/91267933/185836840-df61f72d-a033-4b59-998e-a136b17ec869.png)
+![image](https://user-images.githubusercontent.com/91267933/185836848-4296f98a-3323-4ed8-bb47-5beb72b0d4cc.png)
+![image](https://user-images.githubusercontent.com/91267933/185836855-0acfdd1f-675c-441d-80ca-949d6f9f203c.png)
+![image](https://user-images.githubusercontent.com/91267933/185836860-3b77f438-9fb7-421c-a76d-57ecb824a609.png)
+![image](https://user-images.githubusercontent.com/91267933/185836866-5f49ed85-886e-4761-a108-91f6cacec15b.png)
+![image](https://user-images.githubusercontent.com/91267933/185836874-385103f6-e3e5-4705-81c9-30f3808bd41b.png)
+![image](https://user-images.githubusercontent.com/91267933/185836883-383d779d-bf15-467f-b659-c4c3fbf0a56c.png)
+![image](https://user-images.githubusercontent.com/91267933/185836885-8d8f0f2c-331f-43cb-88b5-f44a7ac0ffed.png)
+![image](https://user-images.githubusercontent.com/91267933/185836893-5e7ecd3f-8bb8-4c3f-a4d9-a0f104fcc92b.png)
+![image](https://user-images.githubusercontent.com/91267933/185836900-13626d82-2d84-4362-81c6-23aeb1162ec5.png)
+![image](https://user-images.githubusercontent.com/91267933/185836908-5af0fc21-5d9a-4597-a209-a7ae627fc01c.png)
+![image](https://user-images.githubusercontent.com/91267933/185836920-9589e72b-f5da-4cb5-a268-5d733463763d.png)
+![image](https://user-images.githubusercontent.com/91267933/185836924-4234b787-73ea-485b-bf51-4c30756a8db0.png)
+![image](https://user-images.githubusercontent.com/91267933/185836936-40c4bbeb-84f9-4bd0-aa69-479fa8b85043.png)
+![image](https://user-images.githubusercontent.com/91267933/185836943-0b2e074b-b81e-4380-b003-fca2fd3583f4.png)
+![image](https://user-images.githubusercontent.com/91267933/185836949-1d0f738d-6238-4b91-b7a9-1dccefda81b1.png)
+![image](https://user-images.githubusercontent.com/91267933/185836960-5d31daf3-bff4-4df9-b2d0-8976760df9f5.png)
+![image](https://user-images.githubusercontent.com/91267933/185836965-1514f8a7-e1c1-432b-84fd-fae544d8b5ea.png)
